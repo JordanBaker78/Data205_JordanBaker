@@ -27,7 +27,11 @@ offensive and defensive trends over the last 5 years?
 
 
 ##Links to all the datasets and other sources:
+
 https://github.com/blnkpagelabs/nflscraPy/releases (Every dataset used is included here)
+
 https://www.espn.com/nfl/
+
 https://www.pro-football-reference.com/
+
 https://www.askpython.com/python/analysing-nfl-team-performance-python
