@@ -1,6 +1,6 @@
 # Data205_JordanBaker
 ## Data 205 Spring 2026
-###This is my capstone project for DATA 205 at Montgomery College, titled 'Exploring NFL Statistics.'
+### This is my capstone project for DATA 205 at Montgomery College, titled 'Exploring NFL Statistics.'
 
 This project will be diving into basic NFL statistics for analysis. For this Project, I will be working with datasets that contain statistics from previous NFL seasons, specifically including datasets that contain information on NFL drives, player and team 
 stats, scoring data, and seasonal data. The dataset(s) named ‘Drives-(year)’ have the data for each drive of 
